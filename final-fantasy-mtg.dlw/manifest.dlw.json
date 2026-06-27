@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-FINAL_FANTASY_MTG",
+  "name": "FINAL FANTASY · FIN",
+  "universe": "ARENA",
+  "moniker": "⟦FINAL FANTASY · FIN:final-fantasy-mtg:a2632b⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "a2632be9c8a0bdab5db7f72e7200f655fb118dd64e83762f1cc994ecc315badf",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
